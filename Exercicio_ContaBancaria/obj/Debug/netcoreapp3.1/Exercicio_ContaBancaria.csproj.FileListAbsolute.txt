@@ -1,0 +1,14 @@
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\bin\Debug\netcoreapp3.1\Exercicio_ContaBancaria.exe
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\bin\Debug\netcoreapp3.1\Exercicio_ContaBancaria.deps.json
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\bin\Debug\netcoreapp3.1\Exercicio_ContaBancaria.runtimeconfig.json
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\bin\Debug\netcoreapp3.1\Exercicio_ContaBancaria.runtimeconfig.dev.json
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\bin\Debug\netcoreapp3.1\Exercicio_ContaBancaria.dll
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\bin\Debug\netcoreapp3.1\Exercicio_ContaBancaria.pdb
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\obj\Debug\netcoreapp3.1\Exercicio_ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\obj\Debug\netcoreapp3.1\Exercicio_ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\obj\Debug\netcoreapp3.1\Exercicio_ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\obj\Debug\netcoreapp3.1\Exercicio_ContaBancaria.AssemblyInfo.cs
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\obj\Debug\netcoreapp3.1\Exercicio_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\obj\Debug\netcoreapp3.1\Exercicio_ContaBancaria.dll
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\obj\Debug\netcoreapp3.1\Exercicio_ContaBancaria.pdb
+C:\Users\Tozelli\Desktop\Curso C#\Exericios\Exercicio_ContaBancaria\Exercicio_ContaBancaria\obj\Debug\netcoreapp3.1\Exercicio_ContaBancaria.genruntimeconfig.cache
